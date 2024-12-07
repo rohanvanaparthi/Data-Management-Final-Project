@@ -12,7 +12,7 @@ https://www.kaggle.com/datasets/valakhorasani/electric-vehicle-charging-patterns
 
 ### Running the Notebook
 
-Open and execute the `Final_Project.ipynb` Jupyter Notebook cell by cell. Ensure you downloaded the dataset and it is inside the same folder as your .ipynb.
+Open and execute the `Final_Project.ipynb` Jupyter Notebook cell by cell. Ensure you downloaded the dataset and it is inside the same folder as your .ipynb. Make sure the csv file is called the same thing as what the code is reading with the line: df = pd.read_csv('ev_charging_patterns.csv')
 
 ---
 
