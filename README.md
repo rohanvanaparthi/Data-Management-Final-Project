@@ -1,47 +1,22 @@
-# Customer Churn Prediction for Telco Customer Churn
+# Analyze EV Charging Behavior
 
-This project aims to predict customer churn for a telecommunications company using a dataset from Kaggle. The model will help identify customers likely to discontinue the service, enabling proactive retention efforts.
+This project aims to analyze and predict electric vehicle (EV) charging behavior and energy consumption. We will analyze charging patterns, user profiles, and vehicle characteristics to try and  develop models to predict future charging needs and optimize charging station usage. 
 
 ## Dataset
 
 The dataset can be accessed from Kaggle:
-[Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+https://www.kaggle.com/datasets/valakhorasani/electric-vehicle-charging-patterns/data
 
 ## Setup Instructions
 
-### 1. Creating the Virtual Environment
 
-To isolate project dependencies, create a virtual environment:
+### Running the Notebook
 
-```
-python -m venv venv
-```
-
-### 2. Activating the Virtual Environment
-
-Activate the virtual environment with the following command:
-
-```
-source ./venv/bin/activate
-```
-
-### 3. Installing Required Libraries
-
-Install all necessary libraries by running:
-
-```
-pip install -r requirements.txt
-```
-
-### 4. Running the Prediction Notebook
-
-Open and execute the `customer_churn_prediction_CS210.ipynb` Jupyter Notebook cell by cell to train and evaluate the model.
+Open and execute the `Final_Project.ipynb` Jupyter Notebook cell by cell. Ensure you downloaded the dataset and it is inside the same folder as your .ipynb.
 
 ---
 
 ### [Video Demo](https://drive.google.com/file/d/1AD2gHVRxQxd_uSUjQ4EZqavwZR2hOYIx/view?usp=share_link)
-
-
 
 
 Feel free to reach out if you have any questions or encounter any issues with the setup or execution.
