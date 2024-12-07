@@ -16,7 +16,7 @@ Open and execute the `Final_Project.ipynb` Jupyter Notebook cell by cell. Ensure
 
 ---
 
-### [Video Demo](https://drive.google.com/file/d/1AD2gHVRxQxd_uSUjQ4EZqavwZR2hOYIx/view?usp=share_link)
-
+### [Video Demo](https://youtu.be/4oLf_3x37xU)
+https://youtu.be/4oLf_3x37xU
 
 Feel free to reach out if you have any questions or encounter any issues with the setup or execution.
